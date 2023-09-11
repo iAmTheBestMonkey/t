@@ -2,4 +2,4 @@
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\URLAllowlist]
 "1"="receiver://*"
-"2"="https://pornhub.com"
+"2"="https://pornhub.com/"
